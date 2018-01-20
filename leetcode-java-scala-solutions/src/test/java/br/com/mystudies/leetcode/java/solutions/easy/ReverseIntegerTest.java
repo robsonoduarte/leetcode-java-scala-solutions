@@ -6,19 +6,13 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class ReverseIntegerTest {
-
-
-
+	
 	private ReverseInteger reserseInteger;
-
-
-
 
 	@Before
 	public void setUp() throws Exception {
 		reserseInteger = new ReverseInteger();
 	}
-
 
 	@Test
 	public void test() {
@@ -27,6 +21,4 @@ public class ReverseIntegerTest {
 		assertEquals(reserseInteger.reverse(120), 21);
 		assertEquals(reserseInteger.reverse(1534236469), 0);
 	}
-
-
 }
