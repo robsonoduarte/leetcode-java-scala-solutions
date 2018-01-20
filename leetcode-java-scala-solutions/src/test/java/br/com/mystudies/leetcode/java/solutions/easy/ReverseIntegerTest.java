@@ -2,17 +2,11 @@ package br.com.mystudies.leetcode.java.solutions.easy;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.Before;
 import org.junit.Test;
 
 public class ReverseIntegerTest {
-	
-	private ReverseInteger reserseInteger;
 
-	@Before
-	public void setUp() throws Exception {
-		reserseInteger = new ReverseInteger();
-	}
+	private ReverseInteger reserseInteger = new ReverseInteger();;
 
 	@Test
 	public void test() {
