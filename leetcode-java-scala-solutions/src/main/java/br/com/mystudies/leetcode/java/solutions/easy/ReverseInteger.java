@@ -1,7 +1,6 @@
 package br.com.mystudies.leetcode.java.solutions.easy;
 
 public class ReverseInteger {
-
 	public int reverse(int x) {
 		try {
 			if(x < 0){
@@ -12,11 +11,7 @@ public class ReverseInteger {
 			return 0;
 		}
 	}
-
-
-
 	private String toStringReverse(int x) {
 		return new StringBuilder(Integer.toString(x)).reverse().toString();
 	}
-
 }
