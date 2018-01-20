@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ReverseIntegerTest {
 
-	private ReverseInteger reserseInteger = new ReverseInteger();;
+	private ReverseInteger reserseInteger = new ReverseInteger();
 
 	@Test
 	public void test() {
