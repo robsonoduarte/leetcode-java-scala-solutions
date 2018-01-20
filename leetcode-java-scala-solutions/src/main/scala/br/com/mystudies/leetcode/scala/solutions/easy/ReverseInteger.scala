@@ -1,7 +1,6 @@
 package br.com.mystudies.leetcode.scala.solutions.easy
 
 class ReverseInteger {
-
   def reverse(x: Int) = {
     try {
     	if(x < 0 ){
@@ -13,6 +12,4 @@ class ReverseInteger {
       case t: NumberFormatException => 0
     }
   }
-
-
 }
