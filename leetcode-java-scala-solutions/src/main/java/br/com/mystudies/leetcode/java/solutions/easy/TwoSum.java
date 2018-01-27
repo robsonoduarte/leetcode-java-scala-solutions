@@ -10,7 +10,7 @@ public class TwoSum {
 				}
 			}
 		}
-	  throw new IllegalArgumentException("No two sum solution");
+	  return new int[] {0,0};
 	}
 
 }
