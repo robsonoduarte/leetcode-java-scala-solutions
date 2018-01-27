@@ -9,7 +9,7 @@ public class ReverseIntegerTest {
 	private ReverseInteger reserseInteger = new ReverseInteger();
 
 	@Test
-	public void test() {
+	public void shouldReverseTheIntger() {
 		assertEquals(reserseInteger.reverse(-123), -321);
 		assertEquals(reserseInteger.reverse(123), 321);
 		assertEquals(reserseInteger.reverse(120), 21);
