@@ -6,7 +6,7 @@ Solutions to the problems of [LeetCode](https://leetcode.com/) wrote in Java and
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/):
     * [Java Solution](https://github.com/robsonoduarte/leetcode-java-scala-solutions/blob/master/leetcode-java-scala-solutions/src/main/java/br/com/mystudies/leetcode/java/solutions/easy/ReverseInteger.java) 
     * [Scala Solution](https://github.com/robsonoduarte/leetcode-java-scala-solutions/blob/master/leetcode-java-scala-solutions/src/main/scala/br/com/mystudies/leetcode/scala/solutions/easy/ReverseInteger.scala)  
-* [Two Sum](https://leetcode.com/problems/two-sum/description/) 
+* [Two Sum](https://leetcode.com/problems/two-sum/description/):
     * [Java Solution](https://github.com/robsonoduarte/leetcode-java-scala-solutions/blob/master/leetcode-java-scala-solutions/src/main/java/br/com/mystudies/leetcode/java/solutions/easy/TwoSum.java)
     * [Scala Solution](https://github.com/robsonoduarte/leetcode-java-scala-solutions/blob/master/leetcode-java-scala-solutions/src/main/scala/br/com/mystudies/leetcode/scala/solutions/easy/TwoSum.scala)  
   
