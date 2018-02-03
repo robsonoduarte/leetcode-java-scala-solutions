@@ -1,17 +1,18 @@
 package br.com.mystudies.leetcode.java.solutions.easy;
 
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
 
 public class RomanToIntegerTest {
 
 
-	
-	private RomanToInteger romanToInteger;
+	private RomanToInteger romanToInteger = new RomanToInteger();
 
+	
 	@Test
 	public void test() {
-		int x = romanToInteger.romanToInt("I");
-		
+		assertEquals(1, romanToInteger.romanToInt("I")); 		
 	}
 
 }

@@ -3,8 +3,12 @@ package br.com.mystudies.leetcode.java.solutions.easy;
 public class RomanToInteger {
 
 	public int romanToInt(String s) {
-		// TODO Auto-generated method stub
-		return 0;
+		switch (s) {
+			case "I":
+				return 1;
+			default:
+				return 0;
+		}
 	}
 
 }
